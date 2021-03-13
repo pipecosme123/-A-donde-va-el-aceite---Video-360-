@@ -16,7 +16,7 @@ Desarrollar una experiencia viirtual en 306° donde se apliquen conseptos como e
 - Adobe Premiere Pro
 - Adobe After Effects
 - Adobe Audition
-- 
+
 ### Archivos del Proyecto
 - **Consignas teóricas**: En estos documentos se describen los paso a paso de cómo se construyó el proyecto, desde el proceso de investigación de la propuesta a solucionar, los modelos 3D, las escenas ensambladas y algunos renders
 - **Video realizado**: Esta es la experienca virtual realizada en clase: https://youtu.be/afdC5IY14Oc
