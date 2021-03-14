@@ -1,13 +1,13 @@
-# ¿A donde va el aceite? - Video-360
+# ¿A dónde va el aceite? - Video-360
 
 ## Desarrolladores
 Daniel Felipe Cosme, Dilan Andres Arango, Maryory Hurtado
 
 ## Descripción de proyecto
-Desarrollo de una experiencia en realidad virtual (video 360°) sobre los problemas que ocaciona el aceite en el alcantarillado de los hogares y el impacto medioambiental que genera en los rios y lagunas, contaminando el agua potable, disminillendo el oxigeno en el liquido y provocando muerte en los seres acuaticos. Este proyecto se realiza en 16 semanas en la asignatura Modelado Y Animacion por Computador.
+Desarrollo de una experiencia en realidad virtual (video 360°) sobre los problemas que ocasiona el aceite en el alcantarillado de los hogares y el impacto medioambiental que genera en los ríos y lagunas, contaminando el agua potable, disminuyendo el oxígeno en el líquido y provocando muerte en los seres acuáticos. Este proyecto se realiza en 16 semanas en la asignatura Modelado Y Animación por Computador.
 
 ## Objetivo del proyecto
-Desarrollar una experiencia viirtual en 306° donde se apliquen conseptos como el modelado 3D, animacion y render.
+Desarrollar una experiencia virtual en 306° donde se apliquen conceptos como el modelado 3D, animación y render.
 
 ## Lenguajes y Herramientas utilizadas
 ### Herramientas:
